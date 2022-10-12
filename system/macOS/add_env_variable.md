@@ -1,5 +1,5 @@
 # 添加环境变量
-```bash
+```shell
 $ vim ~/.zshrc
 添加 export PATH="/opt/anaconda3/bin:$PATH" // 替换为对应路径
 
