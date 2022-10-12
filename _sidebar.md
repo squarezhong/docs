@@ -1,6 +1,8 @@
 <!-- _sidebar.md -->
 
 - Control Algorithm
+
+
 - System
   - macOS
     - [配置oh-my-zsh](/system/macOS/oh-my-zsh.md)
@@ -11,3 +13,7 @@
 - PCB_design
   - [Magnetic Encoder](/PCB_design/Encoder.md) <!--注意这里是相对路径-->
   - [电阻电容的三位数表示](/PCB_design/3digits_rep_for_RC.md)
+  - [贴片电容与电解电容的区别](/PCB_design/difference_mlcc_ec.md)
+
+- STM32 
+  - [STM32后缀含义](/STM32/STM32_suffix.md)
