@@ -2,7 +2,6 @@
 
 - Control Algorithm
 
-
 - System
   - macOS
     - [配置oh-my-zsh](/system/macOS/oh-my-zsh.md)
@@ -17,3 +16,8 @@
 
 - STM32 
   - [STM32后缀含义](/STM32/STM32_suffix.md)
+
+- Electric Knowledge
+  - Digital Circuits
+    - [Class1-Encode](/electric/digital_circuits/Class%201%20Encode.md)
+    - [Class2-COMS_Design](/electric/digital_circuits/Class%202%20CMOS-Design.md)
