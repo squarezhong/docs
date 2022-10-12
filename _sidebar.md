@@ -9,4 +9,5 @@
     - [macOS屏幕某个网址](/system/macOS/block_websites.md)
   
 - PCB_design
-  - [Encoder](/PCB_design/Encoder.md) <!--注意这里是相对路径-->
+  - [Magnetic Encoder](/PCB_design/Encoder.md) <!--注意这里是相对路径-->
+  - [电阻电容的三位数表示](/PCB_design/3digits_rep_for_RC.md)

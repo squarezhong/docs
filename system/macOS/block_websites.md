@@ -1,3 +1,4 @@
+# macOS屏蔽某个网址
 > 原理: 通过关联错误的IP地址和某个URL，就可以阻止浏览器访问它，不保证100%有效
 
 1. 在terminal中输入 `sudo pico /etc/hosts`
