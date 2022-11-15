@@ -22,4 +22,4 @@
     - [Class1-Encode](/electric/digital_circuits/class1_encode.md)
     - [Class2-COMS_Design](/electric/digital_circuits/class2_cmos_design.md)
     - [Class3-Logic Principle](/electric/digital_circuits/class3_logic_principle.md)
-    - [Class4-Combo Logic](/electric/digital_circuits/class3_combo_logic.md)
+    - [Class4-Combo Logic](/electric/digital_circuits/class4_combo_logic.md)
