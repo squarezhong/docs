@@ -19,5 +19,7 @@
 
 - Electric Knowledge
   - Digital Circuits
-    - [Class1-Encode](/electric/digital_circuits/Class%201%20Encode.md)
-    - [Class2-COMS_Design](/electric/digital_circuits/Class%202%20CMOS-Design.md)
+    - [Class1-Encode](/electric/digital_circuits/class1_encode.md)
+    - [Class2-COMS_Design](/electric/digital_circuits/class2_cmos_design.md)
+    - [Class3-Logic Principle](/electric/digital_circuits/class3_logic_principle.md)
+    - [Class4-Combo Logic](/electric/digital_circuits/class3_combo_logic.md)

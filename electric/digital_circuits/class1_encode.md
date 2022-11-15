@@ -7,7 +7,7 @@
 整数部分除n倒排，小数部分乘n正排
 
 - n进制转化为十进制
-j加权相加即可
+加权相加即可
 
 ### Class 2
 
@@ -67,6 +67,7 @@ a 7-bit code
 
 
 
-> The way to the apple park
+> The way to the Apple Park
 
 ![Apple_Park](img/Apple_Park.png)
+

@@ -1,8 +1,26 @@
 # Logic-Principles
 
-- 对偶特性
+- 由truth table得到逻辑表达式
+
+1相加(SOP)，0相乘(POS)
 
 
+
+### Boolean Algebra Theorems
+
+![Screen Shot 2022-10-19 at 19.21.46](img/Screen%20Shot%202022-10-19%20at%2019.21.46.png)
+
+![Screen Shot 2022-10-19 at 19.24.23](img/Screen%20Shot%202022-10-19%20at%2019.24.23.png)
+
+![Screen Shot 2022-10-19 at 19.29.50](img/Screen%20Shot%202022-10-19%20at%2019.29.50.png)
+
+
+
+- $X + \bar{X} Y = X + Y$
+
+- Duality 对偶特性
+
+The dual of a logic expression is obtained by swapping 0 and 1, and • and +.
 
 ## K-map
 
