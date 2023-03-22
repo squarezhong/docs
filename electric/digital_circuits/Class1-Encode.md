@@ -1,7 +1,7 @@
 # Digital Circuit
-### Class 1
+### Part 1
 
-感悟：电气(Electrical)利用电的能量(Energy), 电子(Electronic)利用电的信息 (information)
+感悟：电气 (Electrical) 利用电的能量 (Energy), 电子 (Electronic) 利用电的信息 (information)
 
 - 浮点型十进制转化为n进制
 整数部分除n倒排，小数部分乘n正排
@@ -9,7 +9,7 @@
 - n进制转化为十进制
 加权相加即可
 
-### Class 2
+### Part 2
 
 二进制数的表示方式：第一位为符号位（0正1负）
 对于正数 原码=反码=补码
@@ -24,7 +24,7 @@
 - Overflow：只可能在同号相加时发生
 - 注意区分overflow和自然舍弃的区别
 
-![clock_view_of_addition](img/clock_view_of_addition.png)
+![clock_view_of_addition](img/class1/clock_view_of_addition.png)
 
 #### range
 
@@ -43,7 +43,7 @@
 
 1. **BCD (Binary-Coded Decimal) [8421 Code]**
 
-   ![decimal2bcd](img/decimal2bcd.png)
+   ![decimal2bcd](img/class1/decimal2bcd.png)
 
 2. **2421 Code 权重为2-4-2-1**
 
@@ -59,7 +59,7 @@ two numbers of 9 complement each other
 
 the adjacent numbers have only 1 bit different.
 
-![4bit_gray_code](img/4bit_gray_code.png)
+![4bit_gray_code](img/class1/4bit_gray_code.png)
 
 5. ASCII Code 
 
@@ -69,5 +69,5 @@ a 7-bit code
 
 > The way to the Apple Park
 
-![Apple_Park](img/Apple_Park.png)
+![Apple_Park](img/class1/Apple_Park.png)
 

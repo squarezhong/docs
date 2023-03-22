@@ -2,9 +2,9 @@
 
 ### common logic signs
 
-![common_logic](img/common_logic.png)
+![common_logic](img/class2/common_logic.png)
 
-![x_or_nor](img/x_or_nor.png)
+![x_or_nor](img/class2/x_or_nor.png)
 
 ### Fundamental Elements
 
@@ -22,9 +22,9 @@
 - AND p并n串
 - OR  p串n并
 
-![nand_gate](img/nand_gate.png)
+![nand_gate](img/class2/nand_gate.png)
 
-![nor_gate](img/nor_gate.png)
+![nor_gate](img/class2/nor_gate.png)
 
 
 
@@ -41,6 +41,10 @@ fanout = min($\displaystyle{\frac{I_{OHmax}}{I_{IHmax}}}$, $\displaystyle{\frac{
 #### Unused Inputs
 
 CMOS inputs不应浮空
+
+
+
+> 以下内容没有在quiz或考试中出现过
 
 #### Rise and Fall times
 

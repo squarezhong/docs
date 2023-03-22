@@ -16,9 +16,7 @@ Three level delay: if one input is HIGH, and the other is changed.
 -  A product term (P) is 0 if all inputs are connected.
 -  An output term (O) is 0 if no product term is connected
 
-![ApplicationFrameHost_dHFz3iQbZ1](./img/ApplicationFrameHost_dHFz3iQbZ1.png)
-
-
+![PLD](./img/class4/PLD.png)
 
 
 
