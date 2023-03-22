@@ -10,7 +10,7 @@
     - [macOS屏幕某个网址](/system/macOS/block_websites.md)
   
 - PCB_design
-  - [Magnetic Encoder](/PCB_design/Encoder.md) <!--注意这里是相对路径-->
+  - [Magnetic Encoder](/PCB_design/Encoder.md)
   - [电阻电容的三位数表示](/PCB_design/3digits_rep_for_RC.md)
   - [贴片电容与电解电容的区别](/PCB_design/difference_mlcc_ec.md)
 
@@ -19,7 +19,12 @@
 
 - Electric Knowledge
   - Digital Circuits
-    - [Class1-Encode](/electric/digital_circuits/class1_encode.md)
-    - [Class2-COMS_Design](/electric/digital_circuits/class2_cmos_design.md)
-    - [Class3-Logic Principle](/electric/digital_circuits/class3_logic_principle.md)
-    - [Class4-Combo Logic](/electric/digital_circuits/class4_combo_logic.md)
+    - [Class1-Encode](/electric/digital_circuits/Class1-Encode.md)
+    - [Class2-COMS Design](/electric/digital_circuits/Class2-CMOS-Design.md)
+    - [Class3-Logic Principle](/electric/digital_circuits/Class3-Logic-Principle.md)
+    - [Class4-Combo Logic](electric/digital_circuits/Class4-Combo-Logic.md)
+    - [Class5-Sequential Principle](/electric/digital_circuits/Class5-SeqLogic-Principle.md)
+    - [Class6-Sequential Logic](electric/digital_circuits/Class6-Sequential-Logic.md)
+    - [Class7-Multivibrator&555](electric/digital_circuits/Class7-Multivibrator&555.md)
+    - [Class8-Memory](/electric/digital_circuits/Class8-Memory.md)
+    - [Class9-DAC](/electric/digital_circuits/Class9-DAC.md)
