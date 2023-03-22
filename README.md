@@ -4,7 +4,8 @@
 
 including
 
-- control algorithm
-- electric knowledge
-- PCB design experience
-- embedded develop
+- Control Algorithm
+- Electric Knowledge
+- PCB Design Experience
+- Embedded Develop
+- Games

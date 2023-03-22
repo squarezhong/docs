@@ -2,6 +2,8 @@
 
 - More about me 
   - [Zhihu](https://www.zhihu.com/people/squarezhong/)
+  - [Bilibili](https://space.bilibili.com/165611122)
+  - [Github](https://github.com/squarezhong)
 
 
 
