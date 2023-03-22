@@ -7,7 +7,7 @@
     - [配置oh-my-zsh](/system/macOS/oh-my-zsh.md)
     - [macOS报告文件损坏or未知签名](/system/macOS/macOS报告文件损坏or未知签名.md)
     - [添加环境变量](/system/macOS/add_env_variable.md)
-    - [macOS屏幕某个网址](/system/macOS/block_websites.md)
+    - [macOS屏蔽某个网址](/system/macOS/block_websites.md)
   
 - PCB_design
   - [Magnetic Encoder](/PCB_design/Encoder.md)
