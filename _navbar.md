@@ -10,3 +10,5 @@
 - Friend Link
   - [Uint44t's Blog](http://blog.uint44t.icu/)
 
+- Donation
+  - [Donation](Mess/donation.md)
