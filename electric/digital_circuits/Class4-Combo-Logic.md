@@ -61,5 +61,5 @@ $S_i = A_i\oplus B_i\oplus C_i = P_i\oplus C_i$
 
 $C_{i+1} = (A_i B_i + A_i C_i + B_i C_i) = G_i + P_i C_i $
 
-
+[Back to Outline](outline.md)
 

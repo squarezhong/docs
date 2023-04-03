@@ -82,7 +82,7 @@ binary sequence of  abc follows <font color='red'>**Gray code**</font>
 
 ![](img/class3/kmap_5variables_2.png)
 
-
+[Back to Outline](outline.md)
 
 
 

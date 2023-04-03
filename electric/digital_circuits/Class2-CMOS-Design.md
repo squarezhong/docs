@@ -65,3 +65,5 @@ $V_{CC}$: the power supply voltage.
 𝑓 : The transition frequency of the output signal. 
 
 $C_L$: Equivalent capacitive load both internally and externally on the output.
+
+[Back to Outline](outline.md)

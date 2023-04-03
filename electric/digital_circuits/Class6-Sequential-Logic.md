@@ -62,3 +62,5 @@ $\displaystyle f_c = \frac{1}{T_c} \le \frac{1}{t_{setup} + t_{ffpd(max)} + t_{c
 #### Self-correcting (Ring) Counter
 
 ![](img/class6/slef_corr_counter_nand.png)
+
+[Back to Outline](outline.md)

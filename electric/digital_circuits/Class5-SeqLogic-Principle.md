@@ -42,3 +42,4 @@ $SR\ Latch$ or $\bar{S}\bar{R}\ Latch$
 3. Excitation Equation
 4. State Machine
 
+[Back to Outline](outline.md)

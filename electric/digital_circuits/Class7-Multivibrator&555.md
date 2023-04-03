@@ -33,3 +33,5 @@ $t = RC \displaystyle \ln{(\frac{V-v_0}{V-v_t})}$
 ![](img/class7/555_astable.png)
 
 ![](img/class7/555_monostable.png)
+
+[Back to Outline](outline.md)

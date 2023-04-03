@@ -13,4 +13,4 @@
 ![](img/class8/memory_capacity_expanding.png)
 
 
-
+[Back to Outline](outline.md)

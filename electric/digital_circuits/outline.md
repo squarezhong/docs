@@ -1,0 +1,11 @@
+ # Digital Circuits Outline
+ - Basics
+    - [Class1-Encode](Class1-Encode.md)
+    - [Class2-COMS Design](Class2-CMOS-Design.md)
+    - [Class3-Logic Principle](Class3-Logic-Principle.md)
+    - [Class4-Combo Logic](Class4-Combo-Logic.md)
+    - [Class5-Sequential Principle](Class5-SeqLogic-Principle.md)
+    - [Class6-Sequential Logic](Class6-Sequential-Logic.md)
+    - [Class7-Multivibrator&555](Class7-Multivibrator&555.md)
+    - [Class8-Memory](Class8-Memory.md)
+    - [Class9-DAC](Class9-DAC.md)
